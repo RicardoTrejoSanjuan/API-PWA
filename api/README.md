@@ -39,6 +39,12 @@ Api is running at <a href="http://localhost:3001">http://localhost:3001</a>
 
 ## Endpoints 
 
+
+### Swagger
+
+http://localhost:3001/api/
+
+
 ### Get All
 
 http://localhost:3001/employee
