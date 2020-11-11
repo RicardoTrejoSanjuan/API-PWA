@@ -17,5 +17,5 @@ Api is running at <a href="http://localhost:3000">http://localhost:3000</a>
 
 
 
-![Alt](/img/db.png "mongodb atlas")
-![Alt](/img/front.png "frontend")
+![Alt](img/db.png "mongodb atlas")
+![Alt](img/front.png "frontend")
